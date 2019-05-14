@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1556482309 source:c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<cstdlib>
+	"CLASSE.h"
+	"tinystr.h"
+	"tinyxml.h"
+	<iostream>
+	<vector>
+
+1556482029 c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\classe.h
+	<cstring>
+	<string>
+	<iostream>
+
+1556482026 source:c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\metodos.cpp
+	"CLASSE.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\tinystr.cpp
+	"tinystr.h"
+
+1305411898 c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305411898 c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\gerador_grade\gerador_grade\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_grade\tinystr.cpp
+	"tinystr.h"
+
+1305411898 c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_grade\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_grade\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305411898 c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_grade\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_grade\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_grade\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+

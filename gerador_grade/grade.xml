@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<GRADE>
+    <CURSO></CURSO>
+    <SIGLA-CURSO>ECO</SIGLA-CURSO>
+    <ANO>2015</ANO>
+    <N-DIS>2</N-DIS>
+    <DISCIPLINAS>
+        <DISCIPLINA>
+            <NOME>INTRODUCAO A ENG DE COMPUTACAO</NOME>
+            <SIGLA>ECOI01</SIGLA>
+            <PERIODO>1</PERIODO>
+            <CARGA HORARIA>32</CARGA HORARIA>
+            <CO-REQUISITO>
+                <SIGLA>ECOI01</SIGLA>
+            </CO-REQUISITO>
+        </DISCIPLINA>
+        <DISCIPLINA>
+            <NOME>ECOI01</NOME>
+            <SIGLA>ECOI01</SIGLA>
+            <PERIODO>1</PERIODO>
+            <CARGA HORARIA>64</CARGA HORARIA>
+            <PRE-REQUISITO-TOTAL>
+                <SIGLA>ECOI01</SIGLA>
+            </PRE-REQUISITO-TOTAL>
+        </DISCIPLINA>
+    </DISCIPLINAS>
+</GRADE>

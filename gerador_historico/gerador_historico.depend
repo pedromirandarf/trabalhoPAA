@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\tinystr.cpp
+	"tinystr.h"
+
+1305411898 c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305411898 c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305411898 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1556845753 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<cstdlib>
+	"CLASSE.h"
+	"tinystr.h"
+	"tinyxml.h"
+	<iostream>
+	<vector>
+
+1556749561 c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\classe.h
+	<cstring>
+	<string>
+	<iostream>
+
+1556750210 source:c:\users\pedro celso miranda\desktop\paa\primeira entrega\gerador_historico\metodos.cpp
+	"CLASSE.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+

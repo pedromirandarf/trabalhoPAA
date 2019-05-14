@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<GRADE>
+    <CURSO></CURSO>
+    <SIGLA-CURSO>ECO</SIGLA-CURSO>
+    <ANO>2015</ANO>
+    <N-DIS>2</N-DIS>
+    <DISCIPLINAS>
+        <DISCIPLINA>
+            <NOME>LOGICA DE PROGRAMACAO</NOME>
+            <SIGLA>ECOI01.1</SIGLA>
+            <PERIODO>1</PERIODO>
+            <CARGA HORARIA>64</CARGA HORARIA>
+            <CO-REQUISITO>
+                <SIGLA>ECOI01.2</SIGLA>
+            </CO-REQUISITO>
+        </DISCIPLINA>
+        <DISCIPLINA>
+            <NOME>ALGORITMOS E ESTRUTURA DE DADOS I</NOME>
+            <SIGLA>ECOI02</SIGLA>
+            <PERIODO>2</PERIODO>
+            <CARGA HORARIA>64</CARGA HORARIA>
+            <PRE-REQUISITO-TOTAL>
+                <SIGLA>ECOI01.1</SIGLA>
+                <SIGLA>ECOI01.2</SIGLA>
+            </PRE-REQUISITO-TOTAL>
+            <CO-REQUISITO>
+                <SIGLA>ECOI01.2</SIGLA>
+            </CO-REQUISITO>
+        </DISCIPLINA>
+    </DISCIPLINAS>
+</GRADE>
